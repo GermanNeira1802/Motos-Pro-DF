@@ -69,11 +69,11 @@
     color: white;
     text-align: center;
 }
-body { background-color: #000000; color: #ffffff; font-family: monospace; }
-h1 { color: #00ff00; text-align: center; font-size: 32px; }
-h2 { color: #00e5ff; border-bottom: 1px solid #00ff00; }
-p { color: blue; font-size: 36px; }
+body { background-color: #111111; color: #ffffff; font-family: monospace; }
+h1 { color: #A0A0A0; text-align: center; font-size: 32px; }
+h2 { color: #F4F4F4; border-bottom: 1px solid #00ff00; }
+p { color: #D4AF37; font-size: 36px; }
 .neira { color: #00e5ff; text-transform: uppercase; }
-a { color: #00e5ff; text-decoration: none; }
-a:hover { color: #00ff00; text-decoration: underline; }
-img { max-width: 100%; height: auto; border: 2px solid #00ff00; border-radius: 8px; display: block; margin: 20px auto; }
+a { color: #1E1E1E; text-decoration: none; }
+a:hover { color: #1E1E1E; text-decoration: underline; }
+img { max-width: 100%; height: auto; border: 2px solid #D4AF37; border-radius: 8px; display: block; margin: 20px auto; }
