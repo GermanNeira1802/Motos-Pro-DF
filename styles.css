@@ -85,8 +85,10 @@ a:hover { color: #E5C158; text-decoration: underline; }
 
 img { max-width: 100%; height: auto; border: 2px solid #D4AF37; border-radius: 8px; display: block; margin: 20px auto; }
 
-em {
-    font-style: italic;      /* Quita la inclinación (cursiva) */
-    color: #D4AF37;          /* Cambia el color (ejemplo: Dorado) */
-    font-weight: bold;       /* Le da grosor de negrita */
+.neira {
+    font-style: italic;           /* Mantiene o fuerza la cursiva */
+    color: #D4AF37;               /* Color de texto */
+    font-size: 18px;              /* Tamaño de la letra */
+    text-transform: uppercase;   /* Convierte el texto a mayúsculas si deseas */
+    letter-spacing: 1px;          /* Separación entre letras */
 }
