@@ -86,7 +86,7 @@ a:hover { color: #E5C158; text-decoration: underline; }
 img { max-width: 100%; height: auto; border: 2px solid #D4AF37; border-radius: 8px; display: block; margin: 20px auto; }
 
 em {
-    font-style: normal;      /* Quita la inclinación (cursiva) */
+    font-style: italic;      /* Quita la inclinación (cursiva) */
     color: #D4AF37;          /* Cambia el color (ejemplo: Dorado) */
     font-weight: bold;       /* Le da grosor de negrita */
 }
