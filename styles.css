@@ -76,7 +76,7 @@ h1 { color: #D4AF37; text-align: center; font-size: 32px; }
 
 h2 { color: #D4AF37 !important; border-bottom: 1px solid #D4AF37; }
 
-p { color: #FFFFFF; font-size: 36px; }
+p { color: #FFFFFF !important; font-size: 36px; }
 
 
 a { color: #D4AF37; text-decoration: none; }
